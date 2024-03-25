@@ -1,5 +1,10 @@
 [
   {
+    "userName": "Test Example 2",
+    "email": "test@example.com",
+    "password": "123456"
+  },
+  {
     "userName": "Test Example",
     "email": "test@example.com",
     "password": "123456"
