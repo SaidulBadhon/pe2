@@ -1,1 +1,1 @@
-test.jsx test.jsx test.jsx
+return <h1>Test</h1>
